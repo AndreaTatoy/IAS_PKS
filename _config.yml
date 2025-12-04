@@ -3,7 +3,7 @@ email: tatoylouise0@gmail.com
 description: >-
   A Personal Knowledge System showcasing knowledge in Information Assurance and Security.
 baseurl: "/"
-url: "https://AndreaTatoy.netlify.app"
+url: "https://beautiful-centaur-9a672d.netlify.app"
 
 markdown: kramdown
 theme: minima
@@ -11,7 +11,7 @@ theme: minima
 collections:
   notes:
     output: true
-    permalink: /:collection/:name.html
+    permalink: /notes/:name.html
 
 nav:
   - title: Home / Technical CV
