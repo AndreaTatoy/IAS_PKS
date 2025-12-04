@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /Home.html
+---
+
 # IAS Personal Knowledge System (Draft)
 
 ## Louise Andrea R. Tatoy | 3BSIT-5
