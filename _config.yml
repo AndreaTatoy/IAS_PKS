@@ -6,7 +6,6 @@ baseurl: "/"
 url: "https://beautiful-centaur-9a672d.netlify.app"
 
 markdown: kramdown
-theme: minima
 
 collections:
   notes:
