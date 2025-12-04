@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /Home.html
 ---
 
 # IAS Personal Knowledge System (Draft)
